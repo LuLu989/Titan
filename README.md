@@ -5,7 +5,7 @@
 
 What is Titancoin?
 ----------------
-https://titanprojects.co
+https://www.titanprojects.co
 
 Titan Coin is an experimental new digital currency that enables instant payments to anyone, 
 anywhere in the world. Titan Coin Introduces a completely new blockchain which uses Hybrid 
